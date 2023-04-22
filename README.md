@@ -28,4 +28,8 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/varshneydif) 
 ## ✨ Recent Achievement
 [![An image of @divyanshu29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyanshu29)](https://holopin.io/@divyanshu29)
-![Snake animation](https://github.com/{{Divyanshu_Vareshney}}/{{Divyanshu_Vareshney}}/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
