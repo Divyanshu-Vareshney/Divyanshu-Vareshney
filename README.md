@@ -1,3 +1,4 @@
+ # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <img src=https://github.com/Divyanshu-Vareshney/Divyanshu-Vareshney/blob/output/github-contribution-grid-snake.svg>
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Node Js<br>💬 Ask me about React and Javascript<br>⚡ Fun fact  For engineers every course apart from engineering is easy.
@@ -29,3 +30,7 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/varshneydif) 
 ## ✨ Recent Achievement
 [![An image of @divyanshu29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyanshu29)](https://holopin.io/@divyanshu29)
+ <h3 align="center">Visitor Count</h3>
+ <a align="center" href="https://profile-counter.glitch.me/{Divyanshu_Vareshney}/count.svg">
+   
+   ![VisitorCount](https://profile-counter.glitch.me/{Divyanshu_Vareshney}/count.svg) 
