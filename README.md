@@ -17,20 +17,21 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Divyanshu-Vareshney&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Divyanshu_2904)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Divyanshu_2904)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Divyanshu-Vareshney&icon=0&color=0)](https://visitcount.itsvg.in)
+ <h3 align="center">Visitor Count</h3>
+ <a align="center" href="https://profile-counter.glitch.me/{Divyanshu_Vareshney}/count.svg">
+   
+   ![VisitorCount](https://profile-counter.glitch.me/{Divyanshu_Vareshney}/count.svg) 
+
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/varshneydif) 
 ## ✨ Recent Achievement
 [![An image of @divyanshu29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyanshu29)](https://holopin.io/@divyanshu29)
- <h3 align="center">Visitor Count</h3>
- <a align="center" href="https://profile-counter.glitch.me/{Divyanshu_Vareshney}/count.svg">
-   
-   ![VisitorCount](https://profile-counter.glitch.me/{Divyanshu_Vareshney}/count.svg) 
